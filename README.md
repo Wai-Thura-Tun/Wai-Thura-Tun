@@ -14,5 +14,3 @@ Former Web Developer at MetaTeam Japan-Myanmar Co., Ltd. and currently a Softwar
 
 ---
 [![](https://komarev.com/ghpvc/?username=Wai-Thura-Tun&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
