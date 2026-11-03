@@ -1,5 +1,5 @@
 # 💫 About Me:
-Former Web Developer at MetaTeam Japan-Myanmar Co., Ltd. and currently a Software Engineering student at North Chiang Mai University. Passionate about native iOS development, backend development, and machine learning, with a strong interest in building innovative and impactful software solutions.<br>
+Former Web Developer at [MetaTeam Japan-Myanmar Co., Ltd](https://metateammyanmar.com/en/). and currently a Software Engineering student at North Chiang Mai University. Passionate about native iOS development, backend development, and machine learning, with a strong interest in building innovative and impactful software solutions.<br>
 
 
 ## 🌐 Socials:
